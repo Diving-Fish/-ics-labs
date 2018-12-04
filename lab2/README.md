@@ -1,4 +1,4 @@
-#ICS Lab2 : Bombing
+# ICS Lab2 : Bombing
 
 > * Disassembling Task
 > * Difficulty: Normal/Hard

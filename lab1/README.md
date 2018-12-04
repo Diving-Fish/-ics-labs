@@ -1,4 +1,4 @@
-#ICS Lab1 : Bit-level ops
+# ICS Lab1 : Bit-level ops
 
 > * Coding Task
 > * About 100 line codes
