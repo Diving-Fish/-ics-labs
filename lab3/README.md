@@ -1,4 +1,4 @@
-# CS Lab3 : Attacking
+# ICS Lab3 : Attacking
 
 > * Disassembling Task
 > * Difficulty: Normal/Hard
